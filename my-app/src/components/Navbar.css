@@ -1,0 +1,23 @@
+.navbar{
+    background-color: black;
+    height: 150px;
+    
+    /*justify-content: space-between;*/
+}
+
+.cart{
+    height: 50px;
+    margin-left: 20px;
+    margin-right:15px;
+}
+
+.category{
+    height: 60px;   
+    margin-left:20px;
+    margin-bottom:-5px
+}
+.logo{
+    height:140px;
+    margin-left:70px
+   
+}
